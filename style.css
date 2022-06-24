@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 243px;
+    top: 110px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+    
+    color: #000000;
+}
+
+.introduction h3 {
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 736px;
+    top: 110px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+
+.introduction p {
+    position: absolute;
+    width: 439px;
+    height: 87px;
+    left: 736px;
+    top: 147px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    
+    color: #000000;
+}
