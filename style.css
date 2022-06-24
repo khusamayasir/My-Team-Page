@@ -233,3 +233,47 @@
     
     color: #000000;
 }
+
+.grid-item-p5 img{
+    position: absolute;
+    width: 276.68px;
+    height: 469px;
+    left: 241px;
+    top: 760px;
+}
+
+.grid-item-p5 p {
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 835px;
+    top: 944px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+
+.grid-item-p5 h3 {
+    position: absolute;
+    width: 124px;
+    height: 27px;
+    left: 571px;
+    top: 1306px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    
+    color: #000000;
+}
