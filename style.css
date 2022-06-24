@@ -102,3 +102,49 @@
     color: #000000;
 }
 
+.grid-item-p2 img{
+    position: absolute;
+    width: 305.21px;
+    height: 471px;
+    left: 534.64px;
+    top: 396px;
+}
+
+.grid-item-p2 p {
+    position: absolute;
+    width: 85px;
+    height: 16px;
+    left: 819px;
+    top: 429px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+
+.grid-item-p2 h3 {
+    position: absolute;
+    width: 128px;
+    height: 27px;
+    left: 571px;
+    top: 791px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    
+    color: #000000;
+
+    margin: 395px 140.85px 49px 36.36px;
+}
+
