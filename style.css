@@ -145,3 +145,49 @@
     
     color: #000000;
 }
+
+
+
+.grid-item-p3 img{
+    position: absolute;
+    width: 300.81px;
+    height: 399.96px;
+    left: 863.54px;
+    top: 330px;
+}
+
+.grid-item-p3 p {
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 1165px;
+    top: 330px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+
+.grid-item-p3 h3 {
+    position: absolute;
+    width: 70px;
+    height: 27px;
+    left: 901px;
+    top: 686px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+}
