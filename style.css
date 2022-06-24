@@ -190,7 +190,7 @@
     color: #000000;
 }
 
-.grid-item-p3 img{
+.grid-item-p4 img{
     position: absolute;
     width: 276.68px;
     height: 469px;
@@ -198,7 +198,7 @@
     top: 760px;
 }
 
-.grid-item-p3 p {
+.grid-item-p4 p {
     position: absolute;
     width: 77px;
     height: 16px;
@@ -218,7 +218,7 @@
     transform: rotate(90deg);
 }
 
-.grid-item-p3 h3 {
+.grid-item-p4 h3 {
     position: absolute;
     width: 86px;
     height: 27px;
