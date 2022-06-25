@@ -314,22 +314,26 @@
     color: #000000;
 }
 
-footer{
-    position: absolute;
-    width: 287px;
-    height: 17px;
-    left: 547px;
-    top: 1448px;
-    
-    font-family: 'Montserrat';
+footer {
+    font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
-    
     text-align: center;
-    
-    color: #A9A9A9;
+    color: #BDBDBD;
+}
+
+.username-github-link, .devchallengelink {
+    color: #333;
+}
+  
+.username-link:hover {
+    color: black;
+}
+
+.devchallenges-link:hover {
+    color: #f7542e;
 }
 
 @media only screen and (max-width: 650px){
