@@ -1,15 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap');
 
-body {
-    position: absolute;
-    width: 1440px;
-    height: 1489px;
-    left: 0px;
-    top: 0px;
-    
-    background: #FAFAFA;
-}
-
 .heading {
     position: absolute;
     width: 278px;
