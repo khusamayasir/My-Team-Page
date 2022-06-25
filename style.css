@@ -331,3 +331,40 @@ footer{
     
     color: #A9A9A9;
 }
+
+@media  only screen and (max-width:500px) { 
+    .heading{
+        position: absolute;
+        width: 278px;
+        height: 47px;
+        left: 12px;
+        top: 71px;
+        
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 48px;
+        letter-spacing: -0.045em;
+        
+        color: #000000;
+    }
+
+    .introduction h3{
+        position: absolute;
+        width: 117px;
+        height: 27px;
+        left: 12px;
+        top: 156px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        
+        text-transform: uppercase;
+        
+        color: #000000;
+    }
+}
