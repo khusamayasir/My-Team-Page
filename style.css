@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap');
 
+body {
+    position: absolute;
+    width: 1440px;
+    height: 1489px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FAFAFA;
+}
+
 .heading {
     position: absolute;
     width: 278px;
@@ -334,6 +344,16 @@ footer{
 
 @media  only screen and (max-width:500px) { 
 
+    body{
+        position: absolute;
+        width: 375px;
+        height: 1409px;
+        left: 0px;
+        top: 0px;
+        
+        background: #FAFAFA;
+    }
+
     .heading{
         position: absolute;
         width: 278px;
@@ -431,6 +451,24 @@ footer{
         height: 255px;
         left: 200px;
         top: 979px;
+    }
+
+    footer {
+        position: absolute;
+        width: 287px;
+        height: 17px;
+        left: 46px;
+        top: 1368px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        
+        text-align: center;
+        
+        color: #A9A9A9;
     }
     
 }
