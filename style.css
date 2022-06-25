@@ -333,6 +333,7 @@ footer{
 }
 
 @media  only screen and (max-width:500px) { 
+
     .heading{
         position: absolute;
         width: 278px;
@@ -367,4 +368,69 @@ footer{
         
         color: #000000;
     }
+    
+    .introduction p{
+        position: absolute;
+        width: 333px;
+        height: 87px;
+        left: 12px;
+        top: 193px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        
+        color: #000000;
+    }
+
+    .grid-item-p1{
+        position: absolute;
+        width: 156px;
+        height: 237px;
+        left: 19px;
+        top: 318px;
+    }
+
+    .grid-item-p2{
+        position: absolute;
+        width: 157px;
+        height: 237px;
+        left: 200px;
+        top: 366px;
+    }
+    
+    .grid-item-p3{
+        position: absolute;
+        width: 154px;
+        height: 247px;
+        left: 19px;
+        top: 619px;
+    }
+
+    .grid-item-p4{
+        position: absolute;
+        width: 154px;
+        height: 248px;
+        left: 200px;
+        top: 667px;
+    }
+    
+    .grid-item-p5{
+        position: absolute;
+        width: 154px;
+        height: 261px;
+        left: 19px;
+        top: 930px;
+    }
+    
+    .grid-item-p6{
+        position: absolute;
+        width: 155px;
+        height: 255px;
+        left: 200px;
+        top: 979px;
+    }
+    
 }
