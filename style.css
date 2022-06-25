@@ -63,7 +63,7 @@
     position: absolute;
     width: 102px;
     height: 16px;
-    left: 440px;
+    left: 438px;
     top: 365px;
     
     font-family: 'PT Serif';
@@ -99,7 +99,7 @@
     position: absolute;
     width: 238px;
     height: 426.5px;
-    left: 534.64px;
+    left: 550px;
     top: 396px;
 }
 
@@ -107,8 +107,8 @@
     position: absolute;
     width: 85px;
     height: 16px;
-    left: 808px;
-    top: 430px;
+    left: 755px;
+    top: 425px;
     
     font-family: 'PT Serif';
     font-style: normal;
@@ -127,8 +127,8 @@
     position: absolute;
     width: 128px;
     height: 27px;
-    left: 540px;
-    top: 880px;
+    left: 550px;
+    top: 805px;
     
     font-family: 'Poppins';
     font-style: normal;
@@ -231,7 +231,7 @@
     position: absolute;
     width: 238px;
     height: 426.5px;;
-    left: 534.64px;
+    left: 550px;
     top: 944px;
 }
 
@@ -239,8 +239,8 @@
     position: absolute;
     width: 68px;
     height: 16px;
-    left: 835px;
-    top: 944px;
+    left: 765px;
+    top: 965px;
     
     font-family: 'PT Serif';
     font-style: normal;
@@ -257,10 +257,10 @@
 
 .grid-item-p5 h3 {
     position: absolute;
-    width: 124px;
+    width: 128px;
     height: 27px;
-    left: 571px;
-    top: 1306px;
+    left: 550px;
+    top: 1355px;
     
     font-family: 'Poppins';
     font-style: normal;
