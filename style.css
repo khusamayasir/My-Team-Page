@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap');
 
+*{
+    box-sizing: border-box;
+}
+
+
 .heading {
     position: absolute;
     width: 278px;
@@ -315,13 +320,21 @@
 }
 
 footer {
-    font-family: "Montserrat", sans-serif;
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 547px;
+    top: 1448px;
+    
+    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 17px;
+    
     text-align: center;
-    color: #BDBDBD;
+    
+    color: #A9A9A9;
 }
 
 .username-github-link, .devchallengelink {
@@ -356,4 +369,4 @@ footer {
       .grid-item-p5{
         margin-top:0;
       }
-  }
+}
